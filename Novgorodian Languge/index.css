@@ -1,10 +1,10 @@
 /* Webfont: InclusionUKR-Regular */
 @font-face {
     font-family: 'InclusionUKR';
-    src: url('inclusion.ukr-regular.woff2') format('woff2'), /* Сучасні браузери (найлегший файл) */
+    src: url('inclusion.ukr-regular.woff2') format('woff2'), /* Г‘ГіГ·Г Г±Г­Ві ГЎГ°Г ГіГ§ГҐГ°ГЁ (Г­Г Г©Г«ГҐГЈГёГЁГ© ГґГ Г©Г«) */
     font-style: normal;
     font-weight: normal;
-    font-display: swap; /* Текст з'явиться одразу, не чекаючи повного завантаження файлу */
+    font-display: swap; /* Г’ГҐГЄГ±ГІ Г§'ГїГўГЁГІГјГ±Гї Г®Г¤Г°Г Г§Гі, Г­ГҐ Г·ГҐГЄГ ГѕГ·ГЁ ГЇГ®ГўГ­Г®ГЈГ® Г§Г ГўГ Г­ГІГ Г¦ГҐГ­Г­Гї ГґГ Г©Г«Гі */
 }
 
 #Themain{
